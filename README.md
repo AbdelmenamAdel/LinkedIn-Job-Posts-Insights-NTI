@@ -85,9 +85,6 @@ You can view the full project presentation here:
 - seaborn
 - plotly-express
 
-## 🖼 Sample Visualizations
-- Distribution plots of job titles & industries  
-
 ## 👥 Authors
 **Abdelmoneim Adel**  
 📧 **Email**`abdelmoneim.adel5@gmail.com`  
@@ -102,5 +99,6 @@ git clone https://github.com/AbdelmenamAdel/LinkedIn-Job-Posts-Insights-NTI.git
 
 # Navigate to project folder
 cd LinkedIn-Job-Posts-Insights-NTI
+
 
 
