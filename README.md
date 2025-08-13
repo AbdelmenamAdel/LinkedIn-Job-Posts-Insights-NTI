@@ -74,7 +74,7 @@ Applied different clustering algorithms:
 
 ## 📑 Presentation
 You can view the full project presentation here:  
-[📄 View Presentation (PDF)](./LinkedIn-Job-Posts-Insights-NTI.pdf)
+[📄 View Presentation (PDF)](./LinkedIn_Posts_insights_Presentation.pdf)
 
 ---
 ## 📌 Dependencies
@@ -102,4 +102,5 @@ git clone https://github.com/AbdelmenamAdel/LinkedIn-Job-Posts-Insights-NTI.git
 
 # Navigate to project folder
 cd LinkedIn-Job-Posts-Insights-NTI
+
 
