@@ -18,7 +18,7 @@ The workflow covers **data cleaning, preprocessing, balancing, modeling, dimensi
 
 ## 📂 Dataset
 - **Source**: LinkedIn job posts dataset.
-- **Size**: ~1,610 rows × 23 columns (after cleaning).
+- **Size**: ~21,475 rows × 13 columns (after cleaning).
 - **Key Features**:
   - `job_title`
   - `job_function`
@@ -57,8 +57,12 @@ Applied different clustering algorithms:
   - Reduce feature dimensions.
   - Improve visualization of clusters.
   - Speed up computation.
+    
+### 5. Randome Search
+ - Random search for hyper-parameter optimization
+ - Increase the scores
 
-### 5. Visualization
+### 6. Visualization
 - **Heatmaps** after normalization to understand feature correlations.
 - **Cluster plots** for different algorithms.
 - Distribution plots for job types, industries, and company sizes.
@@ -99,6 +103,7 @@ git clone https://github.com/AbdelmenamAdel/LinkedIn-Job-Posts-Insights-NTI.git
 
 # Navigate to project folder
 cd LinkedIn-Job-Posts-Insights-NTI
+
 
 
 
