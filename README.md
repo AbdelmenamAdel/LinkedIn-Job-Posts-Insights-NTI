@@ -93,6 +93,17 @@ You can view the full project presentation here:
 **Abdelmoneim Adel**  
 📧 **Email**`abdelmoneim.adel5@gmail.com`  
 🌐 [LinkedIn Profile](https://www.linkedin.com/in/abdelmoneim-adel)
+**Abdallah Mahmoud**
+📧 **Email** abdallahsoussa123@gmail.com
+🌐 [LinkedIn Profile](https://www.linkedin.com/in/abdallah-mahmoud-6a9058308)
+**Mohamed Hatem**
+📧 **Email** mohamedhatemwaheed@gmail.com
+🌐 [LinkedIn Profile](https://www.linkedin.com/in/mohamed-hatem-921936258)
+**Rawan Mostafa**
+📧 **Email** rgfreelancing7@gmail.com 
+🌐 [LinkedIn Profile](https://www.linkedin.com/in/rawan-elkhemy-0a3bab279)
+
+)
 
 ---
 
@@ -103,6 +114,7 @@ git clone https://github.com/AbdelmenamAdel/LinkedIn-Job-Posts-Insights-NTI.git
 
 # Navigate to project folder
 cd LinkedIn-Job-Posts-Insights-NTI
+
 
 
 
